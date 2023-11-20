@@ -5,7 +5,7 @@ public class StaticMethodMain {
         //Dont need instance
         //Call with class name
 
-        TosinClass.subtraction()
+        //TosinClass.subtraction()
 
 
 
